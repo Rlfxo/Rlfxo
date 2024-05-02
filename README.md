@@ -16,7 +16,11 @@
  <br/><br/>
 
   
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Rlfxo)](https://solved.ac/Rlfxo)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yskl7137)](https://solved.ac/yskl7137)
  <br/>
- 
+
+ [![Bloglovin Badge](http://img.shields.io/badge/-blog-181717?style=flat&&logo=github&link=https://rlfxo.github.io/)](https://rlfxo.github.io/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yskl7137@gmail.com)](mailto:yskl7137@gmail.com)
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/)]( https://www.youtube.com/)
+
 </div>

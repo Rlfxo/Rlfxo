@@ -1,6 +1,7 @@
 <div align=left>
   
 ![Rlfxo's GitHub stats](https://github-readme-stats-one-vert-25.vercel.app/api?username=Rlfxo&count_private=true&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rlfxo&count_private=true)
 
  <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
  <img src="https://img.shields.io/badge/nordicsemiconductor-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white"/>

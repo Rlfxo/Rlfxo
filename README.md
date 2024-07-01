@@ -1,6 +1,6 @@
 <div align=left>
  
-![Rlfxo's GitHub stats](https://github-stats-deploy-rlfxos-projects.vercel.app/api?username=Rlfxo&count_private=true&show_icons=true&theme=gotham)
+![Rlfxo's GitHub stats](https://github-stats-deploy-dm55qv5yf-rlfxos-projects.vercel.app/api?username=Rlfxo&count_private=true&show_icons=true&theme=gotham)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rlfxo&layout=compact&hide=css,html&theme=gotham)
 

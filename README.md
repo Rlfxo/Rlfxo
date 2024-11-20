@@ -1,4 +1,12 @@
 <div align=left>
+
+ <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Rlfxo"
+  width="600"
+  height="300"
+/>
+</a>
  
 ![Rlfxo's GitHub stats](https://github-stats-deploy-git-main-rlfxos-projects.vercel.app/api?username=Rlfxo&count_private=true&show_icons=true&theme=gotham)
 
